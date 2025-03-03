@@ -2,6 +2,7 @@
 
 ## Overview
 This **Python-based Discord bot** that was created as a **web scraping experiment**. It fetches the latest **GB News** articles and even streams **GB News "Radio"** into a voice channel.
+This bot utilises RSS feeds and Web scraping and as such can be adapted for use with a variety of news sources.
 
 ## Why?
 Good question.
@@ -25,3 +26,14 @@ Good question.
 | feedparser      |
 | beautifulsoup4  |
 | requests        |
+
+## Example Responses on Desktop & Mobile
+
+| Embed Type       | Desktop View                                             | Mobile View                                              |
+|------------------|----------------------------------------------------------|----------------------------------------------------------|
+| **Regular Article** | ![image](https://github.com/user-attachments/assets/23160ac3-b6b0-41b6-ad08-6908d83ff778) | ![Screenshot_20250303_201255_Discord](https://github.com/user-attachments/assets/24fb0059-8e58-4ed9-8c69-c050c460e7cf)
+ |
+| **Member Article** | ![Image](https://github.com/user-attachments/assets/323c637d-098c-43ab-987e-0bcb7a03a013) | ![Screenshot_20250303_201235_Discord](https://github.com/user-attachments/assets/cd8a70ff-8d47-422f-82f3-aea45bd67a82)
+ |
+| **Video**        | ![Image](https://github.com/user-attachments/assets/60818f6b-1e06-4867-a669-ea9e1ea705c6) | ![Screenshot_20250303_201246_Discord](https://github.com/user-attachments/assets/c5d47747-1dac-4d89-a044-c8804e42ec9a)
+ |
