@@ -3,7 +3,7 @@
 ## Overview
 This **Python-based Discord bot** that was created as a **web scraping experiment**. It fetches the latest **GB News** articles and even streams **GB News "Radio"** into a voice channel.
 
-##Why?
+## Why?
 Good question.
 
 ## Features
